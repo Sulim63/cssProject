@@ -1,0 +1,15 @@
+p{
+    background-color: hsl(337, 47%, 60%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+.size{
+    font-size: 24px;
+}
+#fourth{
+    background-color: rgb(181, 255, 108);
+    font-weight: bold;
+}
